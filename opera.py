@@ -52,7 +52,3 @@ if a or b:
 else:
     print(False)
     
-if a not b:
-    print(True)
-else:
-    print(False)
